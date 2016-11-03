@@ -4,8 +4,7 @@
         - defining reports with an object hierarchy
 
 ## AdwordsAPI在做什麼
-- 允許app和adwords platform互動，加強管理Adwords的帳號和活動，　　
-  能做到的大部分Adword網站可做到的功能
+- 允許app和adwords platform互動，加強管理Adwords的帳號和活動，能做到的大部分Adword網站可做到的功能
 - 大致事項如下
     - 自動化管理帳號
     - 自定產生報表
@@ -122,6 +121,7 @@
         - Upgraded URLs
         - 檢查ads內容及反應牴觸政策規定
     - 已有template可靈活創建廣告
+    
 ## Reporting 
 - Overview
     - api有2個主要步驟產生報告
