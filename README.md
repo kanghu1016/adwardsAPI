@@ -5,7 +5,7 @@
 
 ## AdwordsAPI在做什麼
 - 允許app和adwords platform互動，加強管理Adwords的帳號和活動，　　
-    能做到的大部分Adword網站可做到的功能
+  能做到的大部分Adword網站可做到的功能
 - 大致事項如下
     - 自動化管理帳號
     - 自定產生報表
